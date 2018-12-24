@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
         ImageView img = new ImageView(this);
 
         EditText p3 = new EditText(this);
+
     }
 }
